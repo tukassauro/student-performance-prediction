@@ -52,7 +52,8 @@ Foram construídos dois modelos:
      **ŷ = 0.0017 × SAT + 0.275**  
    - Todos os alunos são tratados da mesma forma, independentemente de terem frequentado as aulas ou não.
 
-2. **Com frequência (variável dummy)**  
+2. **Com frequência (variável dummy)**
+   - - **ŷ = 0.6439 + 0.0014 × SAT + 0.2226 * frequência**
    - A variável dummy `Attendance` = 1 se o aluno frequentou as aulas, 0 caso contrário.
    - Isso permite ao modelo **diferenciar as previsões** com base no comportamento de frequência.
 
