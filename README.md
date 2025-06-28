@@ -1,6 +1,6 @@
 # 📊 Linear Regression with a Dummy Variable: Predicting Student Performance
 
-This project explores the use of linear regression to predict a student's final grade (`Final`) based on their SAT score (`SAT`). It demonstrates how adding a dummy variable (`Attendance`) improves the predictive power of the model.
+This project explores the use of linear regression to predict a student's final grade based on their SAT score (`SAT`). It demonstrates how adding a dummy variable (`Attendance`) improves the predictive power of the model.
 
 ## 🧠 Problem Overview
 
@@ -38,7 +38,7 @@ This showcases how even a **simple categorical variable** can significantly impr
 
 # 📊 Regressão Linear com Variável Dummy: Predizendo o Desempenho de Alunos
 
-Este projeto explora o uso da regressão linear para prever a nota final de um aluno (`Final`) com base em sua nota no exame (`SAT`). Ele mostra como adicionar uma variável dummy (`Attendance`) melhora o poder preditivo do modelo.
+Este projeto explora o uso da regressão linear para prever a nota final de um aluno com base em sua nota no exame (`SAT`). Ele mostra como adicionar uma variável dummy (`Attendance`) melhora o poder preditivo do modelo.
 
 ## 🧠 Visão Geral do Problema
 
