@@ -13,7 +13,8 @@ Two models are built:
      **ŷ = 0.0017 × SAT + 0.275**  
    - All students are treated the same, regardless of whether they attended class.
 
-2. **With attendance (dummy variable)**  
+2. **With attendance (dummy variable)**
+        **ŷ = 0.6439 + 0.0014 × SAT + 0.2226 * Attendance**
    - The dummy variable `Attendance` = 1 if the student attended classes, 0 otherwise.
    - This allows the model to **differentiate predictions** based on attendance behavior.
 
